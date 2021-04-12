@@ -2,7 +2,9 @@
 <p align="center"><a href="https://ajay-monu-wedding.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://ajay-monu-wedding.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: Apr 26, 2021 <br> <a href="https://ajay-monu-wedding.netlify.app/">sonali.netlify.app</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/join2aj/Wedding_Invitation?logo=github)](https://ajay-monu-wedding.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/join2aj/wedding_Invitation?logo=github)](https://github.com/join2aj/Wedding_Invitation)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/join2aj/Wedding_Invitation?logo=github)](https://ajay-monu-wedding.netlify.app/) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/34dce994-0b50-4184-b79a-a52dffb5e88d/deploy-status)](https://app.netlify.com/sites/ajay-monu-wedding/deploys)
+[![GitHub license](https://img.shields.io/github/license/join2aj/wedding_Invitation?logo=github)](https://github.com/join2aj/Wedding_Invitation)
 
 ## Wedding Invitation :ring:
 
@@ -12,9 +14,9 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **26th Apr at [Ashirwad Garden](https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802), CSD, Chinkara Canteen, Ch. Dadri, Haryana -127306 from 8:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **29th Apr at [Ashirwad Garden](https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802), CSD, Chinkara Canteen, Ch. Dadri, Haryana -127306 from 8:00 PM** onwards.
 
-- [Download](https://github.com/join2AJ/Wedding_Invitation/blob/master/invitation/Card_Invitation.pdf) the Invitation card
+- [Download](https://github.com/join2AJ/Wedding_Invitation/raw/master/invitation/Card_Invitation.pdf) the Invitation card
 
 - Find [venue](https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802) on Google map
 
@@ -24,7 +26,7 @@ inviting you and your family to elder sister's wedding to be held on **26th Apr 
 
 const newCouple = 'Ajay & Monu';
 
-// Apr 26, 2021
+// Apr 29, 2021
 const weddingDate = new Date(2021, 04, 26);
 
 // Wedding venue: https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802"

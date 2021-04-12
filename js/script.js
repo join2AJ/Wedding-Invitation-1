@@ -1,5 +1,5 @@
 /**
- * @author Vinit Shahdeo <vinitshahdeo@gmail.com>
+ * @author Ajay Kumar <join2aj>
  */
 (function ($) {
     "use strict";
@@ -17,7 +17,7 @@
  * When the website is backed up with a soul-stirring track, the feeling becomes absolutely surreal. 
  * Choose a heart-touching track! 🎵 ❤️
  *
- * Listen here: https://youtu.be/X0MDALpV29s
+ * Listen here: https://www.youtube.com/watch?v=0_jqfezGhjI
  *
  */
 $(document).on('click', function(){
@@ -49,7 +49,7 @@ var x = setInterval(function() {
     // If the count down is over, write some text 
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("time").innerHTML = "Bless the married couple for happy life!";
+        document.getElementById("time").innerHTML = "Bless us for happy life!";
     }
 }, 1000);
 
@@ -85,7 +85,7 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 29th Nov, 2020!', styles);
+console.log('\n\n%c SAVE THE DATE: 26th Apr, 2021!', styles);
 
 console.log('%cYour presence is requested!%c\n\nRegards: Vinit Shahdeo', styles1, styles2);
 
