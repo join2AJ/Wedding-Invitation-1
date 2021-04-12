@@ -22,17 +22,17 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 - See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
 
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
+- See the [Tweet](https://twitter.com/Join2aj/status/1328570280705482752)
 
 ```js
 
-const newCouple = 'Sonali & Gagan';
+const newCouple = 'Ajay & Monu';
 
 // Nov 29, 2020
 const weddingDate = new Date(2020, 11, 29);
 
 // Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+const weddingVenue = new Location('CSD, Chinkara Canteen, Ch. Dadri, Haryana -127306');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
@@ -71,8 +71,8 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 ### Do not forget to leave a star! :hugs:
 
-Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
+Tag me to share your wedding story on Twitter([@join2aj](https://twitter.com/Join2aj)) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
-**Vinit Shahdeo**<i></sup><br>
-[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+**Ajay Kumar**<i></sup><br>
+[![Twitter Follow @Join2aj](https://img.shields.io/twitter/follow/Join2aj?style=social)](https://twitter.com/Join2aj)
