@@ -1,37 +1,33 @@
 
-<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 29, 2020 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
+<p align="center"><a href="https://ajay-monu-wedding.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://ajay-monu-wedding.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: Apr 26, 2021 <br> <a href="https://ajay-monu-wedding.netlify.app/">sonali.netlify.app</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/join2aj/Wedding_Invitation?logo=github)](https://ajay-monu-wedding.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/join2aj/wedding_Invitation?logo=github)](https://github.com/join2aj/Wedding_Invitation)
 
 ## Wedding Invitation :ring:
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://ajay-monu-wedding.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **26th Apr at [Ashirwad Garden](https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802), CSD, Chinkara Canteen, Ch. Dadri, Haryana -127306 from 8:00 PM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/join2AJ/Wedding_Invitation/blob/master/invitation/Card_Invitation.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
+- Find [venue](https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802) on Google map
 
-- Visit the [website](https://sonali.netlify.app/) for more details
-
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
-
-- See the [Tweet](https://twitter.com/Join2aj/status/1328570280705482752)
+- Visit the [website](https://ajay-monu-wedding.netlify.app/) for more details
 
 ```js
 
 const newCouple = 'Ajay & Monu';
 
-// Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+// Apr 26, 2021
+const weddingDate = new Date(2021, 04, 26);
 
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
+// Wedding venue: https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802"
 const weddingVenue = new Location('CSD, Chinkara Canteen, Ch. Dadri, Haryana -127306');
 
 (function() {
@@ -39,7 +35,7 @@ const weddingVenue = new Location('CSD, Chinkara Canteen, Ch. Dadri, Haryana -12
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
+        window.open('https://ajay-monu-wedding.netlify.app/')
     );
 })();
 
@@ -51,14 +47,14 @@ const weddingVenue = new Location('CSD, Chinkara Canteen, Ch. Dadri, Haryana -12
 
 To reuse this, follow the steps:
 
-- *Replace the date in [script.js](https://github.com/vinitshahdeo/Wedding-Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
+- *Replace the date in [script.js](https://github.com/join2aj/Wedding_Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
 
 ```js
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
+var countDownDate = new Date("Apr 26, 2021 00:00:00").getTime();
 ```
 
-- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/vinitshahdeo/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
+- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/join2aj/wedding_Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
 
 ```html
 <div class="music">
