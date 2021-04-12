@@ -10,11 +10,11 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://ajay-monu-wedding.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://ajay-monu-wedding.netlify.app/"><img src="./assets/img/Mail_Invitation.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th Apr at [Ashirwad Garden](https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802), CSD, Chinkara Canteen, Ch. Dadri, Haryana -127306 from 8:00 PM** onwards.
+inviting you and your family to elder sister's wedding to be held on **26th Apr at [beside CSD, Chinkara Canteen](https://www.google.com/maps/place/CSD,+Chinkara+Canteen+Charkhi+Dadri/@28.6026381,76.2680362,159m/data=!3m1!1e3!4m5!3m4!1s0x39128f5ecde0a7ed:0x15497620362a9a7e!8m2!3d28.6022626!4d76.2681802), Ch. Dadri, Haryana -127306 from 8:00 PM** onwards.
 
 - [Download](https://github.com/join2AJ/Wedding_Invitation/raw/master/invitation/Card_Invitation.pdf) the Invitation card
 
