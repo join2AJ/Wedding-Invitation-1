@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://ajay-monu-wedding.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://ajay-monu-wedding.netlify.app/">Wedding Invitation</a> :ring: <br> <br> Save the date: Apr 26, 2021 <br> <a href="https://ajay-monu-wedding.netlify.app/">Ajay & Monu Wedding Website/</a></h1>
+<h1 align="center"><a href="https://ajay-monu-wedding.netlify.app/">Wedding Invitation</a> :ring: <br> <br> Save the date: Apr 26, 2021 <br> <a href="https://ajay-monu-wedding.netlify.app/">Ajay & Monu Wedding</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/join2aj/Wedding_Invitation?logo=github)](https://ajay-monu-wedding.netlify.app/) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/34dce994-0b50-4184-b79a-a52dffb5e88d/deploy-status)](https://app.netlify.com/sites/ajay-monu-wedding/deploys)
