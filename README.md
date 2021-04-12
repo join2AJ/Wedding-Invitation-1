@@ -69,7 +69,7 @@ var countDownDate = new Date("Apr 26, 2021 00:00:00").getTime();
 
 ### Do not forget to leave a star! :hugs:
 
-Tag me to share your wedding story on Twitter([@join2aj](https://twitter.com/Join2aj)) :green_heart:
+Tag me to share your wedding story on Twitter([@join2aj](https://twitter.com/Join2aj)) :green_heart: <br>
 Special Thanks to ([@Vinit_Shahdeo](https://github.com/vinitshahdeo)) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
